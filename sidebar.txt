@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[taj:home|Door43 (taj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-taj|d43-taj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-taj/archive/master.zip|d43-taj.zip]]
+
+**Recent Changes**
+{{changes>ns = taj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/taj|Ethnologue data]]
+
